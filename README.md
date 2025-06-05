@@ -47,27 +47,11 @@ npm start
 The application will be available at http://localhost:3000
 
 ## Usage
-
+---
 ### Login
 - Email: admin@greenfields.com
 - Password: admin123
-
-### Main Features
-- **Dashboard**: View sales statistics and inventory metrics
-- **Products**: Manage dairy product inventory
-- **Orders**: Process and track customer orders
-
-## Features
-
-The application includes Level 3 Advanced Features:
-
-- **Real-time Analytics Dashboard**: Interactive charts and data visualization
-- **Theme Switching**: Choose between Natural, Dark, Ocean, and Purple themes
-- **Smart Email System**: Send updates and notifications to customers
-- **Excel Integration**: Import/export product and order data
-- **Real-time Notifications**: Get alerts for important events
-- **AI-Powered Insights**: Receive recommendations for inventory management
-
+---
 ## Technologies
 
 - **Frontend**:
