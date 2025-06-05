@@ -1,4 +1,4 @@
-# Greenfields Dairy Management System
+# Dairy Management System
 
 A modern web application for managing dairy product inventory, processing orders, and analyzing business metrics for Greenfields Indonesia.
 
