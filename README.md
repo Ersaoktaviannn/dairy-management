@@ -2,19 +2,6 @@
 
 A modern web application for managing dairy product inventory, processing orders, and analyzing business metrics for Greenfields Indonesia.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies](#technologies)
-- [License](#license)
-
-## Installation
-
-### Prerequisites
-- Node.js (v14+)
-- npm (v6+)
-
 ### Setup
 
 Clone the repository and install dependencies:
